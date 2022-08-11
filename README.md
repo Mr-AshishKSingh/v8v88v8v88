@@ -7,4 +7,6 @@ Interests: Computers, Designs, Internet, Programming, Anime, Movies, TV Series, 
 Occupation: CSE Student.<br>
 Languages: C, C++, Rust, Bash<br>
 Country: India<br>
+
 Website: www.v8v88v8v88.tk/
+<br>
