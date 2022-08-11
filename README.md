@@ -1,4 +1,4 @@
-<h1 >Hello, I'm V8! 👋</h1>
+<h1 >Hey, I'm V8! 👋</h1>
 <h3 >Welcome to my github account :)</h3>
 <h4>[About Me]</h4>
 Username: V8V88V8V88<br>
